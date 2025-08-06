@@ -5,6 +5,7 @@
     :maxdepth: 2
     :name: mastertoc
 
-    docs/about
+    docs/Cores.rst
+    docs/QuestionsAndAnswers.rst
 
 
