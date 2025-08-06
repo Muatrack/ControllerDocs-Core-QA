@@ -2,10 +2,10 @@
 =============
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :name: mastertoc
 
     docs/Cores.rst
-    docs/QuestionsAndAnswers.rst
+    docs/QA/index.rst
 
 
