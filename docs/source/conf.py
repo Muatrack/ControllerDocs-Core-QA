@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '节能控制-Core&QA'
-copyright = '2024, Mouyase'
+copyright = '2025, Mouyase'
 author = 'Mouyase'
 release = 'v1.0.0'
 
